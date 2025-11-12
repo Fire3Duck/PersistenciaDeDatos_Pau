@@ -53,6 +53,7 @@
     <Compile Include="Assets\Scripts\SavingDataSystem.cs" />
     <Compile Include="Assets\Scripts\UserData.cs" />
     <Compile Include="Assets\Scripts\ScreenLoad.cs" />
+    <Compile Include="Assets\Scripts\VolumeSlider.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
